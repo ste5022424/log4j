@@ -18,6 +18,6 @@
   "homepage": "https://github.com/ste5022424/log4j#readme",
   "dependencies": {
     "config": "^3.1.0",
-    "log4js": "^4.3.1"
+    "log4js": "^6.4.0"
   }
 }
